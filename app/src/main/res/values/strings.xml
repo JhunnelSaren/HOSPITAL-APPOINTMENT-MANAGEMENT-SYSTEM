@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">HospitalAppointmentApp</string>
+    <string name="med_connect">MedConnect</string>
+    <string name="tagline">Your Health, Our Priority</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="new_user_register">New user? Register here</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="select_role">Select Your Role</string>
+    <string name="patient">Patient</string>
+    <string name="doctor">Doctor</string>
+    <string name="nurse">Nurse</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="verify">Verify</string>
+    <string name="enter_6_digit_code">Enter the 6-digit code</string>
+    <string name="registration_successful">Registration successful! Verify account.</string>
+    <string name="login_successful">Login Successful!</string>
+    <string name="verification_successful">Verified! You can now login.</string>
+    <string name="error_fill_fields">Please fill all fields</string>
+    <string name="error_invalid_code">Invalid code.</string>
+    <string name="server_error">Server Error. Check your connection.</string>
+    <string name="app_logo_description">App Logo</string>
+    <string name="join_medconnect">Join MedConnect today</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="check_updates">Check your health updates here</string>
+    <string name="upcoming_appointments">Upcoming Appointments</string>
+    <string name="no_appointments">No appointments scheduled</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="doctors_panel">Doctor\'s Panel</string>
+    <string name="manage_consultations">Manage your patient consultations</string>
+    <string name="todays_appointments">Today\'s Appointments</string>
+    <string name="nurse_panel">Nurse\'s Panel</string>
+    <string name="manage_ward">Manage ward and patient records</string>
+</resources>
